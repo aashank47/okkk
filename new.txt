@@ -1,2 +1,3 @@
 this is updated text
 this is new
+this is new line
